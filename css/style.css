@@ -38,7 +38,7 @@ main {
 
 .landing {
   min-height: 100vh;
-  background: url("/assets/images/hero.jpg");
+  background: url("assets/images/hero.jpg");
   background-size: cover;
   padding: .5rem 1rem;
 }
