@@ -183,7 +183,7 @@ nav {
 
 .landing {
   height: 85vh;
-  background: url("/assets/images/hero.png") no-repeat center center;
+  background: url("https://esvgross.github.io/CoastalIO/assets/images/hero.png") no-repeat center center;
   background-size: cover;
   padding: 2rem 4rem;
   display: flex;
@@ -369,7 +369,7 @@ nav {
 }
 
 footer {
-  background: url("/assets/images/beach-grass.png") no-repeat center center;
+  background: url("https://esvgross.github.io/CoastalIO/assets/images/beach-grass.png") no-repeat center center;
   background-size: cover;
   height: 100%;
   position: relative;
